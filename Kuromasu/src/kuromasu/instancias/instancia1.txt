@@ -1,0 +1,6 @@
+Ordem = 4
+
+C C C C
+3 C 2 C
+C 3 C 4
+C C C C
