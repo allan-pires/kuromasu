@@ -1,6 +1,5 @@
-kuromasu
+Kuromasu
 ========
-Trabalho da disciplina Algoritmos Avançados na UFRN
 
 ## Informações
 Kuromasu ou também conhecido como "Where is the black cell" é um jogo de quebra-cabeça de determinação binária criado por ano Nikoli (criador de sudoku).
@@ -13,3 +12,9 @@ As seguintes regras determinar quais as células que são:
 - Casas numeradas nunca são pretas.
 - Não devem haver casas pretas adjacentes (horizontalmente ou verticalmente).
 - Todas as casas brancas devem estar ligadas (horizontalmente ou verticalmente).
+
+## Classes
+[Controlador](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Controlador.java): Gerencia todos os processamentos de dados referentes a busca de solução e sua validação.
+[Kuromasu](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Kuromasu.java): Classe Main do projeto.
+[Leitor](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Leitor.java): Lê uma instância de tabuleiro em um arquivo de texto.
+[Quadrado](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Quadrado.java): Modelo de casas de um tabuleiro.
