@@ -14,7 +14,7 @@ As seguintes regras determinar quais as células que são:
 - Todas as casas brancas devem estar ligadas (horizontalmente ou verticalmente).
 
 ## Classes
-[Controlador](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Controlador.java): Gerencia todos os processamentos de dados referentes a busca de solução e sua validação.
-[Kuromasu](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Kuromasu.java): Classe Main do projeto.
-[Leitor](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Leitor.java): Lê uma instância de tabuleiro em um arquivo de texto.
-[Quadrado](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Quadrado.java): Modelo de casas de um tabuleiro.
+- [Controlador](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Controlador.java): Gerencia todos os processamentos de dados referentes a busca de solução e sua validação.
+- [Kuromasu](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Kuromasu.java): Classe Main do projeto.
+- [Leitor](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Leitor.java): Lê uma instância de tabuleiro em um arquivo de texto.
+- [Quadrado](https://github.com/doisLan/Kuromasu/blob/master/Kuromasu/src/kuromasu/Quadrado.java): Modelo de casas de um tabuleiro.
