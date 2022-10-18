@@ -5,7 +5,7 @@
 This is project is an exact algorithm to solve a small kuromasu puzzle.
 
 ## About the game
-Kuromasu (also known as Where Is The Black Cell) is a binary-determination logic puzzle published by Nikoli.
+Kuromasu (also known as Where Is The Black Cell) is a binary-determination logic puzzle.
 
 ## Rules
 Kuromasu is played on a rectangular grid. Some of these cells have numbers in them. Each cell may be either black or white. The object is to determine what type each cell is.
